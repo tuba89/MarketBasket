@@ -1,4 +1,4 @@
-# associationRuels
+# associationRules
 product recommendations with association rules using apriori algorithm
 
 the link in google colab:
