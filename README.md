@@ -1,5 +1,5 @@
-# associationRules
-product recommendations with association rules using apriori algorithm
+# market basket recommendation system
+product recommendations with association rules using apriori algorithm of market basket 
 
 the link in google colab:
 
